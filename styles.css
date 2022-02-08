@@ -7,7 +7,7 @@
     width: 500px;
 }
 
-#center {
+div {
     text-align: center;
 }
 
@@ -23,4 +23,39 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: olive;
     text-align: center;
+}
+
+#somtam {
+    height: auto;
+    width: 50%;
+}
+
+#omelet {
+    height: auto;
+    width: 70%;
+}
+
+h3 {
+    font-size: 38px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: seagreen;
+    text-align: center;
+}
+
+ul {
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    text-align: left;
+    font-weight: 800;
+}
+
+ol,
+ol li {
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    text-align: left;
+    font-weight: 800;
+    background-color: salmon;
 }
