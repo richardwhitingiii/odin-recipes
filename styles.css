@@ -3,7 +3,15 @@
 }
 
 .header {
-    font-size: 40px;
+    font-size: 60px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: mediumslateblue;
+    text-align: center;
+}
+
+.recipe {
+    font-size: 38px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: olive;
+    text-align: center;
 }
